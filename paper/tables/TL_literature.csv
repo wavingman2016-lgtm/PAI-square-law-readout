@@ -1,0 +1,10 @@
+id,method family,representative work,evidence type,squared per channel,non-linearity per channel,low-passed squared envelope,incoherent sum of non-negatives,spatial back-projection precedent,ref.
+L1,Coherent back-projection (unfiltered DAS; UBP with ramp filter),Xu & Wang 2005; Kruger et al. 1995,"photoacoustic, direct",NR,NR,NR,NR,yes,"[3,4]"
+L2,Back-projection followed by envelope detection (standard display chain),Gholampour et al. 2025,"photoacoustic, direct",NR,NR,NR,NR,yes,[14]
+L3,Incoherent compounding of envelope images over apertures or frames,Gholampour et al. 2025; Jespersen et al. 1998,photoacoustic and ultrasound,NR,NR,NR,yes,yes,"[14,15]"
+L4,"Delay-multiply-and-sum (DMAS, FDMAS)",Matrone et al. 2015,ultrasound analogue,NR,yes,NR,NR,yes,[16]
+L5,p-th-root delay-and-sum (pDAS),Polichetti et al. 2018,ultrasound analogue,NR,yes,NR,NR,yes,[17]
+L6,Square-law detection with non-coherent integration,McDonough & Whalen 1995,"detection theory, temporal",yes,n.a.,yes,yes,NR,[13]
+L7,Image-domain squaring (display control only),"this work, section 2.3",this work,NR,NR,NR,NR,n.a.,-
+L8,"Square-and-low-pass (EL, main method)","this work, section 2.1",this work,yes,yes,yes,yes,yes,-
+L9,"Bare square (SQ, ablation)","this work, section 2.1",this work,yes,yes,NR,yes,yes,-

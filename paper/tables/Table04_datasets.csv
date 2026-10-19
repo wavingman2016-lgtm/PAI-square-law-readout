@@ -1,0 +1,10 @@
+﻿block,id,dataset,subject,array,radius_mm,rate_or_steps,fs_MHz,f0_verified_MHz,FOV_mm,role,verdict_or_status
+in-house,W1,data1,single thin tungsten wire (point absorber),semicircle128,55.0,128,40.0,5.00,40,point-target PSF,KEEP
+in-house,W2,data2,two parallel thin tungsten wires (double point),semicircle128,55.0,128,40.0,5.00,40,two-point separability (5% valley-depth dip criterion),KEEP
+in-house,W3,data4,two crossed long wires (X shape in the imaging plane),semicircle128,55.0,128,40.0,5.00,60,field-of-view correction instance,KEEP
+in-house,W4,data6,two wires at different depths (V shape),rotational1440x32ch,54.28,1440,100.0,1.16,18,depth-direction behaviour,KEEP
+in-house,W5,data5,ring / tubular phantom,static1440x32ch,17.49,1440,100.0,0.35,18,contrast on a large-radius target,KEEP
+in-house,W6,data3,rotational scan (first adjudication this work),rotational200,16.02,200,100.0,2.00,18,rotational geometry,KEEP
+external,EXT1,PATATO invivo_oe.hdf5,mouse in vivo (10 wavelengths 700-880 nm),arc256 with 91 deg gap,40.5,256,40.0,3.20,32,raw time series 256x10x2030 uint16,integrated into pipeline
+external,EXT2,RSOM (Zenodo 6466446),"human skin in vivo (532 nm, 1 GHz)",raster,na,4,na,na,na,raw A-lines (4 .mat files),image-domain identity check (Fig. 7b)
+external,EXT3,3D-PACT (Figshare 13114544),rat brain in vivo + human breast,na,na,na,na,na,na,reconstructed volumes only,qualitative display

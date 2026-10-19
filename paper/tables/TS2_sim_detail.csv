@@ -1,0 +1,369 @@
+experiment,condition,quantity,value,unit
+B,"r=1:1,d=0.40mm","dip depth, C",0.757,1
+B,"r=1:1,d=0.40mm","dip SD, C",0.001,1
+B,"r=1:1,d=0.40mm","dip depth, M",0.027,1
+B,"r=1:1,d=0.40mm","dip SD, M",0.000,1
+B,"r=1:1,d=0.40mm","dip depth, EH",0.011,1
+B,"r=1:1,d=0.40mm","dip SD, EH",0.000,1
+B,"r=1:1,d=0.40mm","dip depth, EL",0.000,1
+B,"r=1:1,d=0.40mm","dip SD, EL",0.000,1
+B,"r=1:1,d=0.40mm","dip depth, SQ",0.406,1
+B,"r=1:1,d=0.40mm","dip SD, SQ",0.001,1
+B,"r=1:1,d=0.50mm","dip depth, C",0.823,1
+B,"r=1:1,d=0.50mm","dip SD, C",0.002,1
+B,"r=1:1,d=0.50mm","dip depth, M",0.212,1
+B,"r=1:1,d=0.50mm","dip SD, M",0.001,1
+B,"r=1:1,d=0.50mm","dip depth, EH",0.212,1
+B,"r=1:1,d=0.50mm","dip SD, EH",0.001,1
+B,"r=1:1,d=0.50mm","dip depth, EL",0.210,1
+B,"r=1:1,d=0.50mm","dip SD, EL",0.001,1
+B,"r=1:1,d=0.50mm","dip depth, SQ",0.456,1
+B,"r=1:1,d=0.50mm","dip SD, SQ",0.001,1
+B,"r=1:1,d=0.60mm","dip depth, C",0.946,1
+B,"r=1:1,d=0.60mm","dip SD, C",0.001,1
+B,"r=1:1,d=0.60mm","dip depth, M",0.189,1
+B,"r=1:1,d=0.60mm","dip SD, M",0.000,1
+B,"r=1:1,d=0.60mm","dip depth, EH",0.217,1
+B,"r=1:1,d=0.60mm","dip SD, EH",0.001,1
+B,"r=1:1,d=0.60mm","dip depth, EL",0.215,1
+B,"r=1:1,d=0.60mm","dip SD, EL",0.001,1
+B,"r=1:1,d=0.60mm","dip depth, SQ",0.402,1
+B,"r=1:1,d=0.60mm","dip SD, SQ",0.001,1
+B,"r=1:1,d=0.80mm","dip depth, C",0.940,1
+B,"r=1:1,d=0.80mm","dip SD, C",0.001,1
+B,"r=1:1,d=0.80mm","dip depth, M",0.427,1
+B,"r=1:1,d=0.80mm","dip SD, M",0.001,1
+B,"r=1:1,d=0.80mm","dip depth, EH",0.457,1
+B,"r=1:1,d=0.80mm","dip SD, EH",0.001,1
+B,"r=1:1,d=0.80mm","dip depth, EL",0.456,1
+B,"r=1:1,d=0.80mm","dip SD, EL",0.001,1
+B,"r=1:1,d=0.80mm","dip depth, SQ",0.457,1
+B,"r=1:1,d=0.80mm","dip SD, SQ",0.001,1
+B,"r=1:1,d=1.00mm","dip depth, C",0.989,1
+B,"r=1:1,d=1.00mm","dip SD, C",0.001,1
+B,"r=1:1,d=1.00mm","dip depth, M",0.566,1
+B,"r=1:1,d=1.00mm","dip SD, M",0.000,1
+B,"r=1:1,d=1.00mm","dip depth, EH",0.571,1
+B,"r=1:1,d=1.00mm","dip SD, EH",0.001,1
+B,"r=1:1,d=1.00mm","dip depth, EL",0.570,1
+B,"r=1:1,d=1.00mm","dip SD, EL",0.001,1
+B,"r=1:1,d=1.00mm","dip depth, SQ",0.652,1
+B,"r=1:1,d=1.00mm","dip SD, SQ",0.001,1
+B,"r=1:1,d=1.50mm","dip depth, C",0.998,1
+B,"r=1:1,d=1.50mm","dip SD, C",0.001,1
+B,"r=1:1,d=1.50mm","dip depth, M",0.695,1
+B,"r=1:1,d=1.50mm","dip SD, M",0.001,1
+B,"r=1:1,d=1.50mm","dip depth, EH",0.708,1
+B,"r=1:1,d=1.50mm","dip SD, EH",0.001,1
+B,"r=1:1,d=1.50mm","dip depth, EL",0.707,1
+B,"r=1:1,d=1.50mm","dip SD, EL",0.001,1
+B,"r=1:1,d=1.50mm","dip depth, SQ",0.751,1
+B,"r=1:1,d=1.50mm","dip SD, SQ",0.001,1
+B,"r=1:1,d=2.00mm","dip depth, C",0.999,1
+B,"r=1:1,d=2.00mm","dip SD, C",0.001,1
+B,"r=1:1,d=2.00mm","dip depth, M",0.771,1
+B,"r=1:1,d=2.00mm","dip SD, M",0.001,1
+B,"r=1:1,d=2.00mm","dip depth, EH",0.778,1
+B,"r=1:1,d=2.00mm","dip SD, EH",0.001,1
+B,"r=1:1,d=2.00mm","dip depth, EL",0.777,1
+B,"r=1:1,d=2.00mm","dip SD, EL",0.001,1
+B,"r=1:1,d=2.00mm","dip depth, SQ",0.777,1
+B,"r=1:1,d=2.00mm","dip SD, SQ",0.001,1
+B,"r=4:1,d=0.40mm","dip depth, C",0.653,1
+B,"r=4:1,d=0.40mm","dip SD, C",0.002,1
+B,"r=4:1,d=0.40mm","dip depth, M",0.000,1
+B,"r=4:1,d=0.40mm","dip SD, M",0.000,1
+B,"r=4:1,d=0.40mm","dip depth, EH",0.000,1
+B,"r=4:1,d=0.40mm","dip SD, EH",0.000,1
+B,"r=4:1,d=0.40mm","dip depth, EL",0.000,1
+B,"r=4:1,d=0.40mm","dip SD, EL",0.000,1
+B,"r=4:1,d=0.40mm","dip depth, SQ",0.000,1
+B,"r=4:1,d=0.40mm","dip SD, SQ",0.000,1
+B,"r=4:1,d=0.50mm","dip depth, C",0.969,1
+B,"r=4:1,d=0.50mm","dip SD, C",0.002,1
+B,"r=4:1,d=0.50mm","dip depth, M",0.000,1
+B,"r=4:1,d=0.50mm","dip SD, M",0.000,1
+B,"r=4:1,d=0.50mm","dip depth, EH",0.000,1
+B,"r=4:1,d=0.50mm","dip SD, EH",0.000,1
+B,"r=4:1,d=0.50mm","dip depth, EL",0.000,1
+B,"r=4:1,d=0.50mm","dip SD, EL",0.000,1
+B,"r=4:1,d=0.50mm","dip depth, SQ",0.169,1
+B,"r=4:1,d=0.50mm","dip SD, SQ",0.002,1
+B,"r=4:1,d=0.60mm","dip depth, C",0.917,1
+B,"r=4:1,d=0.60mm","dip SD, C",0.003,1
+B,"r=4:1,d=0.60mm","dip depth, M",0.000,1
+B,"r=4:1,d=0.60mm","dip SD, M",0.000,1
+B,"r=4:1,d=0.60mm","dip depth, EH",0.000,1
+B,"r=4:1,d=0.60mm","dip SD, EH",0.000,1
+B,"r=4:1,d=0.60mm","dip depth, EL",0.000,1
+B,"r=4:1,d=0.60mm","dip SD, EL",0.000,1
+B,"r=4:1,d=0.60mm","dip depth, SQ",0.106,1
+B,"r=4:1,d=0.60mm","dip SD, SQ",0.001,1
+B,"r=4:1,d=0.80mm","dip depth, C",0.910,1
+B,"r=4:1,d=0.80mm","dip SD, C",0.002,1
+B,"r=4:1,d=0.80mm","dip depth, M",0.010,1
+B,"r=4:1,d=0.80mm","dip SD, M",0.005,1
+B,"r=4:1,d=0.80mm","dip depth, EH",0.000,1
+B,"r=4:1,d=0.80mm","dip SD, EH",0.000,1
+B,"r=4:1,d=0.80mm","dip depth, EL",0.000,1
+B,"r=4:1,d=0.80mm","dip SD, EL",0.000,1
+B,"r=4:1,d=0.80mm","dip depth, SQ",0.150,1
+B,"r=4:1,d=0.80mm","dip SD, SQ",0.002,1
+B,"r=4:1,d=1.00mm","dip depth, C",0.990,1
+B,"r=4:1,d=1.00mm","dip SD, C",0.003,1
+B,"r=4:1,d=1.00mm","dip depth, M",0.143,1
+B,"r=4:1,d=1.00mm","dip SD, M",0.002,1
+B,"r=4:1,d=1.00mm","dip depth, EH",0.000,1
+B,"r=4:1,d=1.00mm","dip SD, EH",0.000,1
+B,"r=4:1,d=1.00mm","dip depth, EL",0.000,1
+B,"r=4:1,d=1.00mm","dip SD, EL",0.000,1
+B,"r=4:1,d=1.00mm","dip depth, SQ",0.178,1
+B,"r=4:1,d=1.00mm","dip SD, SQ",0.001,1
+B,"r=4:1,d=1.50mm","dip depth, C",0.995,1
+B,"r=4:1,d=1.50mm","dip SD, C",0.001,1
+B,"r=4:1,d=1.50mm","dip depth, M",0.377,1
+B,"r=4:1,d=1.50mm","dip SD, M",0.001,1
+B,"r=4:1,d=1.50mm","dip depth, EH",0.118,1
+B,"r=4:1,d=1.50mm","dip SD, EH",0.001,1
+B,"r=4:1,d=1.50mm","dip depth, EL",0.117,1
+B,"r=4:1,d=1.50mm","dip SD, EL",0.001,1
+B,"r=4:1,d=1.50mm","dip depth, SQ",0.239,1
+B,"r=4:1,d=1.50mm","dip SD, SQ",0.004,1
+B,"r=4:1,d=2.00mm","dip depth, C",0.997,1
+B,"r=4:1,d=2.00mm","dip SD, C",0.001,1
+B,"r=4:1,d=2.00mm","dip depth, M",0.500,1
+B,"r=4:1,d=2.00mm","dip SD, M",0.001,1
+B,"r=4:1,d=2.00mm","dip depth, EH",0.241,1
+B,"r=4:1,d=2.00mm","dip SD, EH",0.002,1
+B,"r=4:1,d=2.00mm","dip depth, EL",0.241,1
+B,"r=4:1,d=2.00mm","dip SD, EL",0.002,1
+B,"r=4:1,d=2.00mm","dip depth, SQ",0.309,1
+B,"r=4:1,d=2.00mm","dip SD, SQ",0.004,1
+B,r=1:1,"d_min, 5% dip, C",0.40,mm
+B,r=1:1,"d_min, 20% dip, C",0.40,mm
+B,r=1:1,"d_min, 5% dip, M",0.50,mm
+B,r=1:1,"d_min, 20% dip, M",0.50,mm
+B,r=1:1,"d_min, 5% dip, EH",0.50,mm
+B,r=1:1,"d_min, 20% dip, EH",0.50,mm
+B,r=1:1,"d_min, 5% dip, EL",0.50,mm
+B,r=1:1,"d_min, 20% dip, EL",0.50,mm
+B,r=1:1,"d_min, 5% dip, SQ",0.40,mm
+B,r=1:1,"d_min, 20% dip, SQ",0.40,mm
+B,r=2:1,"d_min, 5% dip, C",0.40,mm
+B,r=2:1,"d_min, 20% dip, C",0.40,mm
+B,r=2:1,"d_min, 5% dip, M",0.50,mm
+B,r=2:1,"d_min, 20% dip, M",0.80,mm
+B,r=2:1,"d_min, 5% dip, EH",0.80,mm
+B,r=2:1,"d_min, 20% dip, EH",1.00,mm
+B,r=2:1,"d_min, 5% dip, EL",0.80,mm
+B,r=2:1,"d_min, 20% dip, EL",1.00,mm
+B,r=2:1,"d_min, 5% dip, SQ",0.40,mm
+B,r=2:1,"d_min, 20% dip, SQ",0.40,mm
+B,r=4:1,"d_min, 5% dip, C",0.40,mm
+B,r=4:1,"d_min, 20% dip, C",0.40,mm
+B,r=4:1,"d_min, 5% dip, M",1.00,mm
+B,r=4:1,"d_min, 20% dip, M",1.50,mm
+B,r=4:1,"d_min, 5% dip, EH",1.50,mm
+B,r=4:1,"d_min, 20% dip, EH",2.00,mm
+B,r=4:1,"d_min, 5% dip, EL",1.50,mm
+B,r=4:1,"d_min, 20% dip, EL",2.00,mm
+B,r=4:1,"d_min, 5% dip, SQ",0.60,mm
+B,r=4:1,"d_min, 20% dip, SQ",1.50,mm
+C,a=0.0002,"Pd at 5% false-alarm design target, C",0.00,1
+C,a=0.0002,"Pd SD, C",0.000,1
+C,a=0.0002,"Pd at 5% false-alarm design target, M",0.05,1
+C,a=0.0002,"Pd SD, M",0.224,1
+C,a=0.0002,"Pd at 5% false-alarm design target, EH",0.00,1
+C,a=0.0002,"Pd SD, EH",0.000,1
+C,a=0.0002,"Pd at 5% false-alarm design target, EL",0.00,1
+C,a=0.0002,"Pd SD, EL",0.000,1
+C,a=0.0002,"Pd at 5% false-alarm design target, SQ",0.05,1
+C,a=0.0002,"Pd SD, SQ",0.224,1
+C,a=0.0005,"Pd at 5% false-alarm design target, C",0.05,1
+C,a=0.0005,"Pd SD, C",0.224,1
+C,a=0.0005,"Pd at 5% false-alarm design target, M",0.00,1
+C,a=0.0005,"Pd SD, M",0.000,1
+C,a=0.0005,"Pd at 5% false-alarm design target, EH",0.00,1
+C,a=0.0005,"Pd SD, EH",0.000,1
+C,a=0.0005,"Pd at 5% false-alarm design target, EL",0.00,1
+C,a=0.0005,"Pd SD, EL",0.000,1
+C,a=0.0005,"Pd at 5% false-alarm design target, SQ",0.10,1
+C,a=0.0005,"Pd SD, SQ",0.308,1
+C,a=0.001,"Pd at 5% false-alarm design target, C",0.20,1
+C,a=0.001,"Pd SD, C",0.410,1
+C,a=0.001,"Pd at 5% false-alarm design target, M",0.05,1
+C,a=0.001,"Pd SD, M",0.224,1
+C,a=0.001,"Pd at 5% false-alarm design target, EH",0.05,1
+C,a=0.001,"Pd SD, EH",0.224,1
+C,a=0.001,"Pd at 5% false-alarm design target, EL",0.05,1
+C,a=0.001,"Pd SD, EL",0.224,1
+C,a=0.001,"Pd at 5% false-alarm design target, SQ",0.10,1
+C,a=0.001,"Pd SD, SQ",0.308,1
+C,a=0.002,"Pd at 5% false-alarm design target, C",0.55,1
+C,a=0.002,"Pd SD, C",0.510,1
+C,a=0.002,"Pd at 5% false-alarm design target, M",0.05,1
+C,a=0.002,"Pd SD, M",0.224,1
+C,a=0.002,"Pd at 5% false-alarm design target, EH",0.00,1
+C,a=0.002,"Pd SD, EH",0.000,1
+C,a=0.002,"Pd at 5% false-alarm design target, EL",0.00,1
+C,a=0.002,"Pd SD, EL",0.000,1
+C,a=0.002,"Pd at 5% false-alarm design target, SQ",0.20,1
+C,a=0.002,"Pd SD, SQ",0.410,1
+C,a=0.003,"Pd at 5% false-alarm design target, C",1.00,1
+C,a=0.003,"Pd SD, C",0.000,1
+C,a=0.003,"Pd at 5% false-alarm design target, M",0.15,1
+C,a=0.003,"Pd SD, M",0.366,1
+C,a=0.003,"Pd at 5% false-alarm design target, EH",0.05,1
+C,a=0.003,"Pd SD, EH",0.224,1
+C,a=0.003,"Pd at 5% false-alarm design target, EL",0.10,1
+C,a=0.003,"Pd SD, EL",0.308,1
+C,a=0.003,"Pd at 5% false-alarm design target, SQ",0.20,1
+C,a=0.003,"Pd SD, SQ",0.410,1
+C,a=0.004,"Pd at 5% false-alarm design target, C",1.00,1
+C,a=0.004,"Pd SD, C",0.000,1
+C,a=0.004,"Pd at 5% false-alarm design target, M",0.20,1
+C,a=0.004,"Pd SD, M",0.410,1
+C,a=0.004,"Pd at 5% false-alarm design target, EH",0.20,1
+C,a=0.004,"Pd SD, EH",0.410,1
+C,a=0.004,"Pd at 5% false-alarm design target, EL",0.25,1
+C,a=0.004,"Pd SD, EL",0.444,1
+C,a=0.004,"Pd at 5% false-alarm design target, SQ",0.55,1
+C,a=0.004,"Pd SD, SQ",0.510,1
+C,a=0.005,"Pd at 5% false-alarm design target, C",1.00,1
+C,a=0.005,"Pd SD, C",0.000,1
+C,a=0.005,"Pd at 5% false-alarm design target, M",0.75,1
+C,a=0.005,"Pd SD, M",0.444,1
+C,a=0.005,"Pd at 5% false-alarm design target, EH",0.75,1
+C,a=0.005,"Pd SD, EH",0.444,1
+C,a=0.005,"Pd at 5% false-alarm design target, EL",0.80,1
+C,a=0.005,"Pd SD, EL",0.410,1
+C,a=0.005,"Pd at 5% false-alarm design target, SQ",0.80,1
+C,a=0.005,"Pd SD, SQ",0.410,1
+C,a=0.006,"Pd at 5% false-alarm design target, C",1.00,1
+C,a=0.006,"Pd SD, C",0.000,1
+C,a=0.006,"Pd at 5% false-alarm design target, M",1.00,1
+C,a=0.006,"Pd SD, M",0.000,1
+C,a=0.006,"Pd at 5% false-alarm design target, EH",1.00,1
+C,a=0.006,"Pd SD, EH",0.000,1
+C,a=0.006,"Pd at 5% false-alarm design target, EL",1.00,1
+C,a=0.006,"Pd SD, EL",0.000,1
+C,a=0.006,"Pd at 5% false-alarm design target, SQ",1.00,1
+C,a=0.006,"Pd SD, SQ",0.000,1
+C,a=0.0075,"Pd at 5% false-alarm design target, C",1.00,1
+C,a=0.0075,"Pd SD, C",0.000,1
+C,a=0.0075,"Pd at 5% false-alarm design target, M",1.00,1
+C,a=0.0075,"Pd SD, M",0.000,1
+C,a=0.0075,"Pd at 5% false-alarm design target, EH",1.00,1
+C,a=0.0075,"Pd SD, EH",0.000,1
+C,a=0.0075,"Pd at 5% false-alarm design target, EL",1.00,1
+C,a=0.0075,"Pd SD, EL",0.000,1
+C,a=0.0075,"Pd at 5% false-alarm design target, SQ",1.00,1
+C,a=0.0075,"Pd SD, SQ",0.000,1
+C,a=0.01,"Pd at 5% false-alarm design target, C",1.00,1
+C,a=0.01,"Pd SD, C",0.000,1
+C,a=0.01,"Pd at 5% false-alarm design target, M",1.00,1
+C,a=0.01,"Pd SD, M",0.000,1
+C,a=0.01,"Pd at 5% false-alarm design target, EH",1.00,1
+C,a=0.01,"Pd SD, EH",0.000,1
+C,a=0.01,"Pd at 5% false-alarm design target, EL",1.00,1
+C,a=0.01,"Pd SD, EL",0.000,1
+C,a=0.01,"Pd at 5% false-alarm design target, SQ",1.00,1
+C,a=0.01,"Pd SD, SQ",0.000,1
+C,all,"a50 x1e-3, C",1.86,1
+C,all,"a50 x1e-3, M",4.55,1
+C,all,"a50 x1e-3, EH",4.55,1
+C,all,"a50 x1e-3, EL",4.45,1
+C,all,"a50 x1e-3, SQ",3.86,1
+C,>= 0.02,"Pd at 5% false-alarm design target, all five chains at every amplitude a = 0.02 to 0.40",1.00,1
+D,"M,fixed",weak display contrast,0.0000,1
+D,"M,fixed",weak display contrast SD,0.0000,1
+D,"M,fixed",saturated fraction,1.000,1
+D,"M,fixed",black-clipped fraction,0.000,1
+D,"EH,fixed",weak display contrast,0.0000,1
+D,"EH,fixed",weak display contrast SD,0.0000,1
+D,"EH,fixed",saturated fraction,1.000,1
+D,"EH,fixed",black-clipped fraction,0.000,1
+D,"EL,fixed",weak display contrast,0.0000,1
+D,"EL,fixed",weak display contrast SD,0.0000,1
+D,"EL,fixed",saturated fraction,1.000,1
+D,"EL,fixed",black-clipped fraction,0.000,1
+D,"M,percentile",weak display contrast,0.3697,1
+D,"M,percentile",weak display contrast SD,0.0030,1
+D,"M,percentile",saturated fraction,0.010,1
+D,"M,percentile",black-clipped fraction,0.011,1
+D,"EH,percentile",weak display contrast,0.2566,1
+D,"EH,percentile",weak display contrast SD,0.0023,1
+D,"EH,percentile",saturated fraction,0.010,1
+D,"EH,percentile",black-clipped fraction,0.016,1
+D,"EL,percentile",weak display contrast,0.2566,1
+D,"EL,percentile",weak display contrast SD,0.0023,1
+D,"EL,percentile",saturated fraction,0.010,1
+D,"EL,percentile",black-clipped fraction,0.016,1
+D,"M,dual",weak display contrast,0.1821,1
+D,"M,dual",weak display contrast SD,0.0013,1
+D,"M,dual",saturated fraction,0.010,1
+D,"M,dual",black-clipped fraction,0.010,1
+D,"EH,dual",weak display contrast,0.1361,1
+D,"EH,dual",weak display contrast SD,0.0011,1
+D,"EH,dual",saturated fraction,0.010,1
+D,"EH,dual",black-clipped fraction,0.014,1
+D,"EL,dual",weak display contrast,0.1361,1
+D,"EL,dual",weak display contrast SD,0.0011,1
+D,"EL,dual",saturated fraction,0.010,1
+D,"EL,dual",black-clipped fraction,0.014,1
+D2,"M,W2,fixed",saturated fraction,0.001,1
+D2,"M,W2,fixed",black-clipped fraction,0.004,1
+D2,"M,W2,percentile",saturated fraction,0.010,1
+D2,"M,W2,percentile",black-clipped fraction,0.011,1
+D2,"M,W2,dual",saturated fraction,0.010,1
+D2,"M,W2,dual",black-clipped fraction,0.010,1
+D2,"M,W4,fixed",saturated fraction,0.190,1
+D2,"M,W4,fixed",black-clipped fraction,0.000,1
+D2,"M,W4,percentile",saturated fraction,0.011,1
+D2,"M,W4,percentile",black-clipped fraction,0.010,1
+D2,"M,W4,dual",saturated fraction,0.011,1
+D2,"M,W4,dual",black-clipped fraction,0.010,1
+D2,"EH,W2,fixed",saturated fraction,0.001,1
+D2,"EH,W2,fixed",black-clipped fraction,0.626,1
+D2,"EH,W2,percentile",saturated fraction,0.010,1
+D2,"EH,W2,percentile",black-clipped fraction,0.011,1
+D2,"EH,W2,dual",saturated fraction,0.010,1
+D2,"EH,W2,dual",black-clipped fraction,0.010,1
+D2,"EH,W4,fixed",saturated fraction,0.077,1
+D2,"EH,W4,fixed",black-clipped fraction,0.006,1
+D2,"EH,W4,percentile",saturated fraction,0.010,1
+D2,"EH,W4,percentile",black-clipped fraction,0.010,1
+D2,"EH,W4,dual",saturated fraction,0.010,1
+D2,"EH,W4,dual",black-clipped fraction,0.010,1
+D2,"EL,W2,fixed",saturated fraction,0.001,1
+D2,"EL,W2,fixed",black-clipped fraction,0.626,1
+D2,"EL,W2,percentile",saturated fraction,0.010,1
+D2,"EL,W2,percentile",black-clipped fraction,0.011,1
+D2,"EL,W2,dual",saturated fraction,0.010,1
+D2,"EL,W2,dual",black-clipped fraction,0.010,1
+D2,"EL,W4,fixed",saturated fraction,0.080,1
+D2,"EL,W4,fixed",black-clipped fraction,0.006,1
+D2,"EL,W4,percentile",saturated fraction,0.010,1
+D2,"EL,W4,percentile",black-clipped fraction,0.010,1
+D2,"EL,W4,dual",saturated fraction,0.010,1
+D2,"EL,W4,dual",black-clipped fraction,0.010,1
+E,stage,"pre-processing, mean",0.0231,s
+E,stage,"pre-processing, SD",0.0026,s
+E,stage,"Hilbert transform, mean",0.0206,s
+E,stage,"Hilbert transform, SD",0.0030,s
+E,stage,"envelope, mean",0.0038,s
+E,stage,"envelope, SD",0.0003,s
+E,stage,"squaring of envelope, mean",0.0006,s
+E,stage,"squaring of envelope, SD",0.0001,s
+E,stage,"square, mean",0.0006,s
+E,stage,"square, SD",0.0001,s
+E,stage,"low-pass, mean",0.0101,s
+E,stage,"low-pass, SD",0.0014,s
+E,stage,"back-projection, real, mean",0.8091,s
+E,stage,"back-projection, real, SD",0.0328,s
+E,stage,"back-projection, complex, mean",1.5204,s
+E,stage,"back-projection, complex, SD",0.0300,s
+E,chain,"end-to-end, C",1.5641,s
+E,chain,"end-to-end, M",0.8566,s
+E,chain,"end-to-end, EH",0.8534,s
+E,chain,"end-to-end, EL",0.8429,s

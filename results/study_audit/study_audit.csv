@@ -1,0 +1,223 @@
+axis,quantity,condition,value,note
+1,delta_gCNR_E_minus_C,semicircle128/noise,0.045543,paired over 6 replicates
+1,delta_gCNR_E_minus_M,semicircle128/noise,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,semicircle128/noise,16.4131,p=1.532e-05
+1,paired_t_E_minus_M,semicircle128/noise,0.0000,p=1
+1,delta_gCNR_E_minus_C,ring256/noise,0.047481,paired over 6 replicates
+1,delta_gCNR_E_minus_M,ring256/noise,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,ring256/noise,9.3610,p=0.0002344
+1,paired_t_E_minus_M,ring256/noise,0.0000,p=1
+1,delta_gCNR_E_minus_C,semicircle128/clutter,0.046833,paired over 6 replicates
+1,delta_gCNR_E_minus_M,semicircle128/clutter,-0.651548,paired over 6 replicates
+1,paired_t_E_minus_C,semicircle128/clutter,1.9561,p=0.1078
+1,paired_t_E_minus_M,semicircle128/clutter,-22.7188,p=3.072e-06
+1,delta_gCNR_E_minus_C,ring256/clutter,0.040816,paired over 6 replicates
+1,delta_gCNR_E_minus_M,ring256/clutter,-0.646906,paired over 6 replicates
+1,paired_t_E_minus_C,ring256/clutter,2.4227,p=0.05992
+1,paired_t_E_minus_M,ring256/clutter,-47.5198,p=7.796e-08
+1,delta_gCNR_E_minus_C,aberr sigma_phi=0.5,0.097820,paired over 6 replicates
+1,delta_gCNR_E_minus_M,aberr sigma_phi=0.5,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,aberr sigma_phi=0.5,10.5211,p=0.0001339
+1,paired_t_E_minus_M,aberr sigma_phi=0.5,0.0000,p=1
+1,delta_gCNR_E_minus_C,aberr sigma_phi=1,0.120020,paired over 6 replicates
+1,delta_gCNR_E_minus_M,aberr sigma_phi=1,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,aberr sigma_phi=1,8.7681,p=0.0003199
+1,paired_t_E_minus_M,aberr sigma_phi=1,0.0000,p=1
+1,delta_gCNR_E_minus_C,aberr sigma_phi=2,0.180976,paired over 6 replicates
+1,delta_gCNR_E_minus_M,aberr sigma_phi=2,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,aberr sigma_phi=2,9.1687,p=0.0002588
+1,paired_t_E_minus_M,aberr sigma_phi=2,0.0000,p=1
+1,delta_gCNR_E_minus_C,SNR=0 dB,0.581217,paired over 6 replicates
+1,delta_gCNR_E_minus_M,SNR=0 dB,0.025910,paired over 6 replicates
+1,paired_t_E_minus_C,SNR=0 dB,39.2010,p=2.036e-07
+1,paired_t_E_minus_M,SNR=0 dB,4.0085,p=0.01024
+1,delta_gCNR_E_minus_C,SNR=5 dB,0.468274,paired over 6 replicates
+1,delta_gCNR_E_minus_M,SNR=5 dB,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,SNR=5 dB,48.4708,p=7.062e-08
+1,paired_t_E_minus_M,SNR=5 dB,0.0000,p=1
+1,delta_gCNR_E_minus_C,SNR=10 dB,0.305352,paired over 6 replicates
+1,delta_gCNR_E_minus_M,SNR=10 dB,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,SNR=10 dB,23.5463,p=2.572e-06
+1,paired_t_E_minus_M,SNR=10 dB,0.0000,p=1
+1,delta_gCNR_E_minus_C,SNR=15 dB,0.179699,paired over 6 replicates
+1,delta_gCNR_E_minus_M,SNR=15 dB,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,SNR=15 dB,17.7852,p=1.031e-05
+1,paired_t_E_minus_M,SNR=15 dB,0.0000,p=1
+1,delta_gCNR_E_minus_C,SNR=25 dB,0.056429,paired over 6 replicates
+1,delta_gCNR_E_minus_M,SNR=25 dB,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,SNR=25 dB,6.7473,p=0.001085
+1,paired_t_E_minus_M,SNR=25 dB,0.0000,p=1
+1,delta_gCNR_E_minus_C,random loss 50%,0.093810,paired over 6 replicates
+1,delta_gCNR_E_minus_M,random loss 50%,0.000000,paired over 6 replicates
+1,paired_t_E_minus_C,random loss 50%,5.7298,p=0.002267
+1,paired_t_E_minus_M,random loss 50%,0.0000,p=1
+2,gCNR_C,loss=0.0000,0.945736,
+2,gCNR_M,loss=0.0000,1.000000,saturated above 12.5% loss
+2,gCNR_E,loss=0.0000,1.000000,saturated above 12.5% loss
+2,W1_C,loss=0.0000,204.523,first-order Wasserstein x1e3
+2,W1_M,loss=0.0000,896.791,first-order Wasserstein x1e3
+2,W1_E,loss=0.0000,4594.148,first-order Wasserstein x1e3
+2,dPeak_C,loss=0.0000,125923.4133,peak localisation error px
+2,dPeak_E,loss=0.0000,125426.1665,peak localisation error px
+2,SSIM_C,loss=0.0000,0.523891,global SSIM vs disc truth
+2,SSIM_M,loss=0.0000,0.164867,global SSIM vs disc truth
+2,SSIM_E,loss=0.0000,0.437207,global SSIM vs disc truth
+2,PSR_C,loss=0.0000,35.432982,peak-to-sidelobe ratio
+2,PSR_E,loss=0.0000,35.165208,peak-to-sidelobe ratio
+2,gCNR_C,loss=0.1250,0.930509,
+2,gCNR_M,loss=0.1250,1.000000,saturated above 12.5% loss
+2,gCNR_E,loss=0.1250,1.000000,saturated above 12.5% loss
+2,W1_C,loss=0.1250,179.184,first-order Wasserstein x1e3
+2,W1_M,loss=0.1250,784.184,first-order Wasserstein x1e3
+2,W1_E,loss=0.1250,4016.534,first-order Wasserstein x1e3
+2,dPeak_C,loss=0.1250,125926.5696,peak localisation error px
+2,dPeak_E,loss=0.1250,125418.6560,peak localisation error px
+2,SSIM_C,loss=0.1250,0.489369,global SSIM vs disc truth
+2,SSIM_M,loss=0.1250,0.163968,global SSIM vs disc truth
+2,SSIM_E,loss=0.1250,0.435259,global SSIM vs disc truth
+2,PSR_C,loss=0.1250,35.219349,peak-to-sidelobe ratio
+2,PSR_E,loss=0.1250,35.048280,peak-to-sidelobe ratio
+2,gCNR_C,loss=0.2500,0.877936,
+2,gCNR_M,loss=0.2500,1.000000,saturated above 12.5% loss
+2,gCNR_E,loss=0.2500,1.000000,saturated above 12.5% loss
+2,W1_C,loss=0.2500,151.489,first-order Wasserstein x1e3
+2,W1_M,loss=0.2500,672.194,first-order Wasserstein x1e3
+2,W1_E,loss=0.2500,3443.589,first-order Wasserstein x1e3
+2,dPeak_C,loss=0.2500,126079.1159,peak localisation error px
+2,dPeak_E,loss=0.2500,125545.8448,peak localisation error px
+2,SSIM_C,loss=0.2500,0.452695,global SSIM vs disc truth
+2,SSIM_M,loss=0.2500,0.162554,global SSIM vs disc truth
+2,SSIM_E,loss=0.2500,0.431200,global SSIM vs disc truth
+2,PSR_C,loss=0.2500,34.918438,peak-to-sidelobe ratio
+2,PSR_E,loss=0.2500,34.900013,peak-to-sidelobe ratio
+2,gCNR_C,loss=0.3750,0.884227,
+2,gCNR_M,loss=0.3750,1.000000,saturated above 12.5% loss
+2,gCNR_E,loss=0.3750,1.000000,saturated above 12.5% loss
+2,W1_C,loss=0.3750,127.878,first-order Wasserstein x1e3
+2,W1_M,loss=0.3750,560.208,first-order Wasserstein x1e3
+2,W1_E,loss=0.3750,2870.614,first-order Wasserstein x1e3
+2,dPeak_C,loss=0.3750,126383.9641,peak localisation error px
+2,dPeak_E,loss=0.3750,125742.5232,peak localisation error px
+2,SSIM_C,loss=0.3750,0.418406,global SSIM vs disc truth
+2,SSIM_M,loss=0.3750,0.160680,global SSIM vs disc truth
+2,SSIM_E,loss=0.3750,0.427474,global SSIM vs disc truth
+2,PSR_C,loss=0.3750,34.568508,peak-to-sidelobe ratio
+2,PSR_E,loss=0.3750,34.697614,peak-to-sidelobe ratio
+2,gCNR_C,loss=0.5000,0.881542,
+2,gCNR_M,loss=0.5000,1.000000,saturated above 12.5% loss
+2,gCNR_E,loss=0.5000,1.000000,saturated above 12.5% loss
+2,W1_C,loss=0.5000,104.326,first-order Wasserstein x1e3
+2,W1_M,loss=0.5000,448.417,first-order Wasserstein x1e3
+2,W1_E,loss=0.5000,2297.773,first-order Wasserstein x1e3
+2,dPeak_C,loss=0.5000,126057.1858,peak localisation error px
+2,dPeak_E,loss=0.5000,125448.7457,peak localisation error px
+2,SSIM_C,loss=0.5000,0.381874,global SSIM vs disc truth
+2,SSIM_M,loss=0.5000,0.157525,global SSIM vs disc truth
+2,SSIM_E,loss=0.5000,0.420357,global SSIM vs disc truth
+2,PSR_C,loss=0.5000,34.106685,peak-to-sidelobe ratio
+2,PSR_E,loss=0.5000,34.403907,peak-to-sidelobe ratio
+2,gCNR_C,loss=0.6250,0.848884,
+2,gCNR_M,loss=0.6250,1.000000,saturated above 12.5% loss
+2,gCNR_E,loss=0.6250,1.000000,saturated above 12.5% loss
+2,W1_C,loss=0.6250,80.299,first-order Wasserstein x1e3
+2,W1_M,loss=0.6250,336.265,first-order Wasserstein x1e3
+2,W1_E,loss=0.6250,1722.751,first-order Wasserstein x1e3
+2,dPeak_C,loss=0.6250,126136.5853,peak localisation error px
+2,dPeak_E,loss=0.6250,125581.2039,peak localisation error px
+2,SSIM_C,loss=0.6250,0.331668,global SSIM vs disc truth
+2,SSIM_M,loss=0.6250,0.153178,global SSIM vs disc truth
+2,SSIM_E,loss=0.6250,0.410202,global SSIM vs disc truth
+2,PSR_C,loss=0.6250,33.381545,peak-to-sidelobe ratio
+2,PSR_E,loss=0.6250,34.008433,peak-to-sidelobe ratio
+3,k_fit,SNR=40dB,0.499954,analytic value is 0.5
+3,eps_rel_fitted,SNR=40dB,1.200553e-03,norm(A-k*B)/norm(B) with fitted k
+3,eps_rel_half,SNR=40dB,1.201429e-03,norm(A-0.5*B)/norm(B) with exact 1/2
+3,peak_ratio_half,SNR=40dB,0.499458,max ratio using exact 1/2
+3,k_fit,SNR=20dB,0.499935,analytic value is 0.5
+3,eps_rel_fitted,SNR=20dB,2.715484e-03,norm(A-k*B)/norm(B) with fitted k
+3,eps_rel_half,SNR=20dB,2.716259e-03,norm(A-0.5*B)/norm(B) with exact 1/2
+3,peak_ratio_half,SNR=20dB,0.499593,max ratio using exact 1/2
+3,k_fit,SNR=10dB,0.499581,analytic value is 0.5
+3,eps_rel_fitted,SNR=10dB,1.039708e-02,norm(A-k*B)/norm(B) with fitted k
+3,eps_rel_half,SNR=10dB,1.040552e-02,norm(A-0.5*B)/norm(B) with exact 1/2
+3,peak_ratio_half,SNR=10dB,0.499354,max ratio using exact 1/2
+4,delta_gCNR_E_minus_C,beta=0.20/span=0.000,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.20/span=0.000,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.20/span=0.125,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.20/span=0.125,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.20/span=0.250,0.011628,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.20/span=0.250,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.20/span=0.375,0.000969,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.20/span=0.375,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.20/span=0.500,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.20/span=0.500,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.40/span=0.000,0.035853,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.40/span=0.000,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.40/span=0.125,0.064922,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.40/span=0.125,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.40/span=0.250,0.023256,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.40/span=0.250,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.40/span=0.375,0.011628,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.40/span=0.375,-0.023256,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.40/span=0.500,-0.046512,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.40/span=0.500,-0.081395,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.60/span=0.000,0.052326,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.60/span=0.000,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.60/span=0.125,0.017442,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.60/span=0.125,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.60/span=0.250,0.064922,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.60/span=0.250,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.60/span=0.375,-0.034884,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.60/span=0.375,-0.046512,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.60/span=0.500,-0.077999,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.60/span=0.500,-0.059830,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.80/span=0.000,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.80/span=0.000,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.80/span=0.125,0.054264,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.80/span=0.125,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.80/span=0.250,0.059109,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.80/span=0.250,-0.005814,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.80/span=0.375,0.030039,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.80/span=0.375,-0.059109,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=0.80/span=0.500,-0.074000,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=0.80/span=0.500,-0.044381,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.00/span=0.000,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.00/span=0.000,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.00/span=0.125,0.093023,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.00/span=0.125,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.00/span=0.250,0.112270,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.00/span=0.250,-0.002071,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.00/span=0.375,0.023256,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.00/span=0.375,-0.093023,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.00/span=0.500,-0.086188,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.00/span=0.500,-0.029211,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.50/span=0.000,0.022287,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.50/span=0.000,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.50/span=0.125,0.108527,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.50/span=0.125,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.50/span=0.250,0.132752,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.50/span=0.250,0.000000,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.50/span=0.375,0.026163,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.50/span=0.375,-0.093023,bandwidth x view grid
+4,delta_gCNR_E_minus_C,beta=1.50/span=0.500,-0.118418,bandwidth x view grid
+4,delta_gCNR_E_minus_M,beta=1.50/span=0.500,-0.074813,bandwidth x view grid
+4,additive_R2,bandwidth+view,0.806010,main-effects share of variance
+4,additive_residual_share,bandwidth+view,0.193990,interaction/nonlinear part
+4b,gCNR_C,bw_law=0.60,0.976744,bandwidth-law sensitivity
+4b,gCNR_M,bw_law=0.60,1.000000,bandwidth-law sensitivity
+4b,gCNR_E,bw_law=0.60,1.000000,bandwidth-law sensitivity
+4b,delta_gCNR_E_minus_C,bw_law=0.60,0.023256,bandwidth-law sensitivity
+4b,delta_gCNR_E_minus_M,bw_law=0.60,0.000000,bandwidth-law sensitivity
+4b,gCNR_C,bw_law=0.80,0.952519,bandwidth-law sensitivity
+4b,gCNR_M,bw_law=0.80,1.000000,bandwidth-law sensitivity
+4b,gCNR_E,bw_law=0.80,1.000000,bandwidth-law sensitivity
+4b,delta_gCNR_E_minus_C,bw_law=0.80,0.047481,bandwidth-law sensitivity
+4b,delta_gCNR_E_minus_M,bw_law=0.80,0.000000,bandwidth-law sensitivity
+4b,gCNR_C,bw_law=0.90,0.999031,bandwidth-law sensitivity
+4b,gCNR_M,bw_law=0.90,1.000000,bandwidth-law sensitivity
+4b,gCNR_E,bw_law=0.90,1.000000,bandwidth-law sensitivity
+4b,delta_gCNR_E_minus_C,bw_law=0.90,0.000969,bandwidth-law sensitivity
+4b,delta_gCNR_E_minus_M,bw_law=0.90,0.000000,bandwidth-law sensitivity
+4b,sqlaw_ok,bw_law=0.60,1,1 means the low-pass band is legal
+4b,sqlaw_ok,bw_law=0.80,1,1 means the low-pass band is legal
+4b,sqlaw_ok,bw_law=0.90,1,1 means the low-pass band is legal

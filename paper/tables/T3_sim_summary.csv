@@ -1,0 +1,16 @@
+quantity,C,M,EH,EL,SQ,unit
+amplitude-law slope (A),1.000,1.000,2.000,2.000,2.000,1
+slope SD (A),0.000,0.000,0.000,0.000,0.001,1
+peak-to-background at a=1.00 (A),40.8,32.1,37.8,37.8,39.3,dB
+"criterion crossing, 5% dip, 1:1",0.40,0.50,0.50,0.50,0.40,mm
+"criterion crossing, 20% dip, 1:1",0.40,0.50,0.50,0.50,0.40,mm
+"criterion crossing, 5% dip, 2:1",0.40,0.50,0.80,0.80,0.40,mm
+"criterion crossing, 20% dip, 2:1",0.40,0.80,1.00,1.00,0.40,mm
+"criterion crossing, 5% dip, 4:1",0.40,1.00,1.50,1.50,0.60,mm
+"criterion crossing, 20% dip, 4:1",0.40,1.50,2.00,2.00,1.50,mm
+"a50 at 5% false-alarm design target (C), x1e-3",1.86,4.55,4.55,4.45,3.86,rel.
+end-to-end time (E),1.564,0.857,0.853,0.843,not timed,s
+"  EL/M, end-to-end (E)",,,,0.984,,1
+"  EL/M, detection stage only (E)",,,,0.445,,1
+  back-projection share of EL total (E),,,,0.960,,1
+  complex / real back-projection cost (E),,,,1.88,,1

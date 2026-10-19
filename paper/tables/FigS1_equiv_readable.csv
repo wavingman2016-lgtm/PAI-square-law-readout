@@ -1,0 +1,4 @@
+﻿dataset,worst-case relative residual,relative L2 error,Pearson correlation
+W1,0.00496,0.00615,0.999996
+W2,0.00302,0.00185,0.999996
+W3,0.00523,0.00452,0.999997

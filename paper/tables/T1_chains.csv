@@ -1,0 +1,6 @@
+chain,definition,per-channel quantity,geometric weight,read-out domain,code path
+C,coherent back-projection,"|sum g z|, z = analytic signal",g = d/R,amplitude,hilbert then pa_backproject_coherent (Comp=r)
+M,envelope stacking,"sum g A, A = |z|",g = d/R,amplitude,D.env then pa_backproject (Comp=r)
+EH,Hilbert squared envelope,sum g^2 A^2,g^2,power,D.env2 then pa_backproject (Comp=r2)
+EL,square and low-pass (main),"sum g^2 q, q = 2 LPF{x^2}",g^2,power,D.sqlaw then pa_backproject (Comp=r2)
+SQ,bare square (ablation),sum g^2 x^2,g^2,power,D.sq then pa_backproject (Comp=r2)

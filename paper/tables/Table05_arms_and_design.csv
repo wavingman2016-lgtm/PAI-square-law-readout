@@ -1,0 +1,15 @@
+﻿group,key,value,note
+arm,C,coherent back-projection: I_C = |sum_m g_m z_m| (z_m = analytic signal),primary baseline; domain = pressure amplitude
+arm,M,envelope stacking: I_M = sum_m g_m |z_m|,NOT textbook FBP — its transverse PSF is ~5x broader than C
+arm,E,squared envelope: I_E = sum_m (g_m |z_m|)^2 with LPF{x_m^2} = (1/2)|z_m|^2,"this work; domain = squared pressure (relative energy-related read-out under the stated receiver-side approximation); needs no Hilbert transform in the LP realization"
+arm,BS,image-domain square: I_BS = |sum_m g_m z_m|^2,"control only; I_BS = M.mu.I_E with mu in [0,1]; mu is a per-realisation coherence factor (a measurable scalar field), and the monotone relation is I_BS = I_C^2, not a function of I_E"
+arm,SQ,bare square: x^2 per channel with no band-limiting,"counter-example only, NOT an estimator; retains the 2f0 term; never compared against 1/sqrt(M)"
+fairness,F1,bit-identical pre-processing across arms,enforced
+fairness,F2,identical back-projection kernel grid field of view and pixel pitch,enforced
+fairness,F3,compensation matched to the estimator (r for amplitude arms; r plus channel-wise square for E),enforced
+fairness,F4,an intensity metric without a common-domain interpretation is not comparable across arms,gCNR is invariant under a common invertible re-scaling of one arm and is the primary cross-arm quantity; CNR/DR/concentration are within-domain; localisation error and task-detection criteria on a common ground truth are also admissible
+fairness,cross-check,CNR values are reported per arm only; DR and energy concentration only within the same domain,rule
+design,grid-per-quantity,"width studies Nx = 801; gCNR / ROI studies Nx = 601",finer grids resolve the coherent side-lobe structure differently; no numeric offset is quoted here because none is archived
+design,N_rep,phase-screen and clutter axes carry N_rep >= 4 and are reported as mean +/- SD,the sigma_phi = 4 rad screen gave gCNR_C = 0.637 in the regime sweep and 0.7674 +/- 0.0507 over six replicates at the same setting (spread 0.13); 0.55 arises only once the clutter axis is mixed in (0.215 at maximum clutter)
+design,ROI,2D lesion ROI (0.5 mm disc on target vs 3-6 mm background annulus),a 1D profile criterion would compress C's gCNR from 0.918 to 0.528
+design,Protocol W,"all metrics computed in the data domain (float); displays use a stated window (WL,WW)",affine windows leave gCNR/CNR strictly unchanged; cropped windows do not

@@ -1,0 +1,91 @@
+﻿sensitivity knob,setting,dataset,d_gCNR(E_EI - M^2),d_KS(E_EI - M^2),note
+histogram bin count (edges),33,W1 single wire,0.0000,,
+histogram bin count (edges),33,W2 two wires,-0.0215,,
+histogram bin count (edges),33,W3 crossed wires,-0.0095,,
+histogram bin count (edges),33,W4 two depths,-0.0009,,
+histogram bin count (edges),33,W5 ring phantom,-0.0382,,
+histogram bin count (edges),33,W6 rotational scan,0.0000,,
+histogram bin count (edges),65,W1 single wire,0.0000,,pre-specified setting (65 edges = 64 bins)
+histogram bin count (edges),65,W2 two wires,-0.0139,,pre-specified setting (65 edges = 64 bins)
+histogram bin count (edges),65,W3 crossed wires,-0.0095,,pre-specified setting (65 edges = 64 bins)
+histogram bin count (edges),65,W4 two depths,-0.0009,,pre-specified setting (65 edges = 64 bins)
+histogram bin count (edges),65,W5 ring phantom,-0.0386,,pre-specified setting (65 edges = 64 bins)
+histogram bin count (edges),65,W6 rotational scan,0.0000,,pre-specified setting (65 edges = 64 bins)
+histogram bin count (edges),129,W1 single wire,0.0000,,
+histogram bin count (edges),129,W2 two wires,-0.0051,,
+histogram bin count (edges),129,W3 crossed wires,-0.0095,,
+histogram bin count (edges),129,W4 two depths,-0.0010,,
+histogram bin count (edges),129,W5 ring phantom,-0.0436,,
+histogram bin count (edges),129,W6 rotational scan,0.0000,,
+histogram bin count (edges),257,W1 single wire,0.0000,,
+histogram bin count (edges),257,W2 two wires,-0.0135,,
+histogram bin count (edges),257,W3 crossed wires,-0.0090,,
+histogram bin count (edges),257,W4 two depths,-0.0009,,
+histogram bin count (edges),257,W5 ring phantom,-0.0447,,
+histogram bin count (edges),257,W6 rotational scan,0.0000,,
+histogram bin count (edges),513,W1 single wire,0.0000,,
+histogram bin count (edges),513,W2 two wires,-0.0082,,
+histogram bin count (edges),513,W3 crossed wires,-0.0080,,
+histogram bin count (edges),513,W4 two depths,-0.0010,,
+histogram bin count (edges),513,W5 ring phantom,-0.0450,,
+histogram bin count (edges),513,W6 rotational scan,0.0000,,
+bin-origin shift (bin widths),0.00,W1 single wire,0.0000,,
+bin-origin shift (bin widths),0.00,W2 two wires,-0.0139,,
+bin-origin shift (bin widths),0.00,W3 crossed wires,-0.0095,,
+bin-origin shift (bin widths),0.00,W4 two depths,-0.0009,,
+bin-origin shift (bin widths),0.00,W5 ring phantom,-0.0386,,
+bin-origin shift (bin widths),0.00,W6 rotational scan,0.0000,,
+bin-origin shift (bin widths),0.25,W1 single wire,0.0000,,
+bin-origin shift (bin widths),0.25,W2 two wires,-0.0135,,
+bin-origin shift (bin widths),0.25,W3 crossed wires,-0.0355,,
+bin-origin shift (bin widths),0.25,W4 two depths,-0.0006,,
+bin-origin shift (bin widths),0.25,W5 ring phantom,-0.0405,,
+bin-origin shift (bin widths),0.25,W6 rotational scan,0.0000,,
+bin-origin shift (bin widths),0.50,W1 single wire,0.0000,,
+bin-origin shift (bin widths),0.50,W2 two wires,-0.0177,,
+bin-origin shift (bin widths),0.50,W3 crossed wires,-0.0641,,
+bin-origin shift (bin widths),0.50,W4 two depths,-0.0006,,
+bin-origin shift (bin widths),0.50,W5 ring phantom,-0.0418,,
+bin-origin shift (bin widths),0.50,W6 rotational scan,0.0000,,
+bin-origin shift (bin widths),0.75,W1 single wire,0.0000,,
+bin-origin shift (bin widths),0.75,W2 two wires,-0.0082,,
+bin-origin shift (bin widths),0.75,W3 crossed wires,-0.0767,,
+bin-origin shift (bin widths),0.75,W4 two depths,-0.0006,,
+bin-origin shift (bin widths),0.75,W5 ring phantom,-0.0436,,
+bin-origin shift (bin widths),0.75,W6 rotational scan,0.0000,,
+binning-free estimator d_KS,65,W1 single wire,,0.0000,binning-free two-sample KS statistic (no histogram)
+binning-free estimator d_KS,65,W2 two wires,,-0.0180,binning-free two-sample KS statistic (no histogram)
+binning-free estimator d_KS,65,W3 crossed wires,,-0.0095,binning-free two-sample KS statistic (no histogram)
+binning-free estimator d_KS,65,W4 two depths,,-0.0009,binning-free two-sample KS statistic (no histogram)
+binning-free estimator d_KS,65,W5 ring phantom,,-0.0551,binning-free two-sample KS statistic (no histogram)
+binning-free estimator d_KS,65,W6 rotational scan,,0.0000,binning-free two-sample KS statistic (no histogram)
+ROI radius multiple,0.5,W1 single wire,0.0000,,halved radius: disk begins to contain the lesion shoulder / second wire
+ROI radius multiple,0.5,W2 two wires,-0.0139,,halved radius: disk begins to contain the lesion shoulder / second wire
+ROI radius multiple,0.5,W3 crossed wires,+0.0042,,halved radius: disk begins to contain the lesion shoulder / second wire
+ROI radius multiple,0.5,W4 two depths,+0.0341,,halved radius: disk begins to contain the lesion shoulder / second wire
+ROI radius multiple,0.5,W5 ring phantom,-0.0386,,halved radius: disk begins to contain the lesion shoulder / second wire
+ROI radius multiple,0.5,W6 rotational scan,0.0000,,halved radius: disk begins to contain the lesion shoulder / second wire
+ROI radius multiple,1.0,W1 single wire,0.0000,,pre-specified radius
+ROI radius multiple,1.0,W2 two wires,-0.0139,,pre-specified radius
+ROI radius multiple,1.0,W3 crossed wires,-0.0095,,pre-specified radius
+ROI radius multiple,1.0,W4 two depths,-0.0009,,pre-specified radius
+ROI radius multiple,1.0,W5 ring phantom,-0.0386,,pre-specified radius
+ROI radius multiple,1.0,W6 rotational scan,0.0000,,pre-specified radius
+ROI radius multiple,1.5,W1 single wire,0.0000,,
+ROI radius multiple,1.5,W2 two wires,-0.0139,,
+ROI radius multiple,1.5,W3 crossed wires,-0.0181,,
+ROI radius multiple,1.5,W4 two depths,-0.0003,,
+ROI radius multiple,1.5,W5 ring phantom,-0.0386,,
+ROI radius multiple,1.5,W6 rotational scan,0.0000,,
+ROI radius multiple,2.0,W1 single wire,0.0000,,
+ROI radius multiple,2.0,W2 two wires,-0.0139,,
+ROI radius multiple,2.0,W3 crossed wires,-0.0397,,
+ROI radius multiple,2.0,W4 two depths,-0.0003,,
+ROI radius multiple,2.0,W5 ring phantom,-0.0386,,
+ROI radius multiple,2.0,W6 rotational scan,0.0000,,
+ROI radius multiple,3.0,W1 single wire,0.0000,,tripled radius: W6 leaves saturation
+ROI radius multiple,3.0,W2 two wires,-0.0073,,tripled radius: W6 leaves saturation
+ROI radius multiple,3.0,W3 crossed wires,-0.1793,,tripled radius: W6 leaves saturation
+ROI radius multiple,3.0,W4 two depths,-0.0003,,tripled radius: W6 leaves saturation
+ROI radius multiple,3.0,W5 ring phantom,-0.0386,,tripled radius: W6 leaves saturation
+ROI radius multiple,3.0,W6 rotational scan,-0.0066,,tripled radius: W6 leaves saturation

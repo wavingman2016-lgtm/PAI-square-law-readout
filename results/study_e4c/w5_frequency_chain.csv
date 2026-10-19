@@ -1,0 +1,5 @@
+quantity_MHz,f_raw_peak,f_raw_b6_centre,f_raw_f50,f_raw_fcnt,f_bp_peak,f_bp_b6_lo,f_bp_b6_hi,f_bp_b6_centre,f_bp_f50,f_bp_fcnt
+0.3500,0.1875,0.4062,0.4062,1.3376,0.7812,0.4688,2.5625,1.5156,1.4688,2.0930
+# reference (archived W5_report.txt): audited peak 0.78, -6dB band [0.47,2.03], centre 1.25, cum band [0.56,7.44]; decision_basis raw unfiltered peak 0.188
+# raw detail: {'label': 'raw (DC-removed, no band-pass)', 'f_peak_MHz': np.float64(0.1875), 'f_lo6_MHz': np.float64(0.03125), 'f_hi6_MHz': np.float64(0.78125), 'B6_MHz': np.float64(0.75), 'b6_centre_MHz': np.float64(0.40625), 'f05_MHz': np.float64(0.03125), 'f95_MHz': np.float64(2.6875), 'f50_MHz': np.float64(0.40625), 'fcnt_MHz': 1.3376362828009785, 'spurFlag': False, 'smooth_bins': 23}
+# bp  detail: {'label': 'after [0.5,15] MHz band-pass (= audit input)', 'f_peak_MHz': np.float64(0.78125), 'f_lo6_MHz': np.float64(0.46875), 'f_hi6_MHz': np.float64(2.5625), 'B6_MHz': np.float64(2.09375), 'b6_centre_MHz': np.float64(1.515625), 'f05_MHz': np.float64(0.59375), 'f95_MHz': np.float64(7.5), 'f50_MHz': np.float64(1.46875), 'fcnt_MHz': 2.0930004565737828, 'spurFlag': False, 'smooth_bins': 23}

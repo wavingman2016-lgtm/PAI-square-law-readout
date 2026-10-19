@@ -1,0 +1,7 @@
+id,data,subject,array,radius_mm,rateorsteps,sample_fs_MHz,validated_config,verdict,dCNR,dgCNR,DR_gain_dB,DR_env_dB,DR_E_dB,pearson_D2p_D1sq,validChanFrac,edgeFrac,baseCNR,result_dir,figure,conc_ratio_E_M,DR_E_dB_sqlaw
+own1,data1,单根细长钨丝（点状吸收体）,semicircle128,55.00,128,40.0,"默认：f0=5 MHz, FOV=40 mm, Nx=601",KEEP,+0.850,-0.008,9.65,28.0671,37.7126,1.0000,1.0000,0.2130,13.0250,results/wire/W1_single,W1_point.png,1.605,37.746
+own2,data2,两根并排细钨丝（双点）,semicircle128,55.00,128,40.0,"默认：f0=5 MHz, FOV=40 mm, Nx=601",KEEP,+1.198,+0.013,7.05,15.0576,22.1094,0.9998,1.0000,0.2390,4.1760,results/wire/W2_double,W2_point.png,1.716,22.114
+own4,data4,X 形交叉长丝（线状）,semicircle128,55.00,128,40.0,"FOV=60 mm (Nx=1501, dx=0.04 mm)",KEEP,+7.855,+0.033,15.97,13.3612,29.3357,1.0000,1.0000,0.3470,6.2520,results/recheck/W3_fov60,W3_point.png,2.595,29.333
+own6,data6,交叉线状结构（V 形；32 通道旋转扫描，物体身份未证实）,rotational1440x32ch,54.28,1440,100.0,"F0=1.16 MHz (实测带中心), FOV=18 mm",KEEP,+1.100,+0.041,4.63,4.8156,9.4481,0.9999,1.0000,0.2460,2.7820,results/recheck/W4_f0meas,W4_point.png,1.528,9.429
+own3,data3,旋转 200 步（无历史归档，本轮首次判定）,rotational200,16.02,200,100.0,"F0=2.00 MHz (实测), FOV=18 mm, Nx=601",KEEP,+0.473,+0.049,3.23,13.0998,16.3305,1.0000,0.9950,0.2100,2.5170,results/recheck/W6_fov18_f0meas,W6_point.png,1.432,16.335
+own5,data5,环形/管状仿体（静态重复采集 1440 次，非旋转；32 通道）,static1440x32ch,17.49,1440,100.0,"F0=0.35 MHz (实测), FOV=18 mm, Nx=601",KEEP,+0.252,+0.021,2.41,1.4631,3.8714,0.9994,0.9990,0.2510,1.4180,results/recheck/W5_f0meas,W5_point.png,1.165,3.859

@@ -1,0 +1,15 @@
+part,quantity,value,theory,note
+A,CV_inst_at_r0,1.117677,1.000000,std(|a|^2)/mean(|a|^2); theory=1 for complex Gaussian
+A,R_circ_at_r0,0.138727,0,mean resultant length (0=uniform phase)
+B,CV_ensemble_I_E,0.111574,0.088388,ensemble over Nens independent realisations
+B,CV_ensemble_I_BS,1.431483,1.000000,ensemble over Nens independent realisations
+B,CV_ensemble_I_M,0.056607,,reference only
+D,CV_I_E_synthetic_iid,0.087417,0.088388,closure self-consistency under the stated random model
+D,CV_I_BS_synthetic_iid,0.992810,1.000000,closure self-consistency under the stated random model
+D,Neff_I_E_geometry,80.329,128,moment-matching description only; NOT an independence proof
+D,CV_I_E_white_noise,0.081706,0.088388,same geometry weights but independent per-channel phases
+C,decorrelation_len_E_mm,0.3333,,1/e width of autocorrelation along x
+C,decorrelation_len_BS_mm,0.1333,,1/e width of autocorrelation along x
+C,lambda_over_2_mm,0.1478,,reference lambda*R/D with D=2R
+C,envelope_CV_E_roi0_2mm,0.108103,,local envelope modulation inside the ROI
+C,envelope_CV_BS_roi0_2mm,1.321821,,local envelope modulation inside the ROI

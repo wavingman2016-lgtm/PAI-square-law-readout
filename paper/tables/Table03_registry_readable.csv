@@ -1,0 +1,7 @@
+﻿id,dataset,target,geometry,verified configuration,verdict,dCNR,dgCNR,native-domain DR diff. (dB)
+own1,data1,single thin tungsten wire (point-like absorber),"semicircle128, R = 55.00 mm, 128 steps, fs = 40.0 MHz","default: f0=5 MHz, FOV=40 mm, Nx=601",KEEP,+0.850,-0.008,9.65
+own2,data2,two parallel thin tungsten wires (double point),"semicircle128, R = 55.00 mm, 128 steps, fs = 40.0 MHz","default: f0=5 MHz, FOV=40 mm, Nx=601",KEEP,+1.198,+0.013,7.05
+own4,data4,X-shaped crossed filament (line target),"semicircle128, R = 55.00 mm, 128 steps, fs = 40.0 MHz","FOV=60 mm (Nx=1501, dx=0.04 mm)",KEEP,+7.855,+0.033,15.97
+own6,data6,"crossed filament (V-shaped; 32-channel rotational scan, target identity not confirmed)","rotational1440x32ch, R = 54.28 mm, 1440 steps, fs = 100.0 MHz","F0=1.16 MHz (measured band centre), FOV=18 mm",KEEP,+1.100,+0.041,4.63
+own3,data3,"rotational scan, 200 steps (no archived history; first adjudication here)","rotational200, R = 16.02 mm, 200 steps, fs = 100.0 MHz","F0=2.00 MHz (measured), FOV=18 mm, Nx=601",KEEP,+0.473,+0.049,3.23
+own5,data5,"ring / tube phantom (static, 1440 repeats, non-rotational; 32 channels)","static1440x32ch, R = 17.49 mm, 1440 steps, fs = 100.0 MHz","F0=0.35 MHz (historical; provenance not recoverable), FOV=18 mm, Nx=601",KEEP,+0.252,+0.021,2.41

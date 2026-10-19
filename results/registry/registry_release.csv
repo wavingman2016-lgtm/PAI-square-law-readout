@@ -1,0 +1,7 @@
+id,data,result_dir,dCNR,dgCNR,DR_env_dB,DR_E_dB,DR_E_dB_sqlaw,DR_gain_dB,conc_ratio_E_M
+own1,data1,results/wire/W1_single,+0.850,-0.008,28.0671,37.7126,37.746,9.65,1.605
+own2,data2,results/wire/W2_double,+1.198,+0.013,15.0576,22.1094,22.114,7.05,1.716
+own4,data4,results/recheck/W3_fov60,+7.855,+0.033,13.3612,29.3357,29.333,15.97,2.595
+own6,data6,results/recheck/W4_f0meas,+1.100,+0.041,4.8156,9.4481,9.429,4.63,1.528
+own3,data3,results/recheck/W6_fov18_f0meas,+0.473,+0.049,13.0998,16.3305,16.335,3.23,1.432
+own5,data5,results/recheck/W5_f0meas,+0.252,+0.021,1.4631,3.8714,3.859,2.41,1.165

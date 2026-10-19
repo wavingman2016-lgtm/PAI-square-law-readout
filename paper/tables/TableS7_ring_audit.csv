@@ -1,0 +1,97 @@
+﻿dataset,quantity,value
+W1 single wire,annulus max / C peak,0.0354
+W1 single wire,annulus p95 / C peak,0.0175
+W1 single wire,fraction of annulus pixels > 5% of C peak,0.0000
+W1 single wire,discrete peaks > 20% of C peak in annulus,0
+W1 single wire,strongest annulus peak position (mm),NA
+W1 single wire,background pixels n_bg,3046
+W1 single wire,"d_gCNR(E_EI - M^2), pre-registered annulus (3-6 r)",0.0000
+W1 single wire,"n_bg, pre-registered annulus (3-6 r)",3046
+W1 single wire,"d_gCNR(E_EI - M^2), peak exclusion (>20% of C peak)",0.0000
+W1 single wire,"n_bg, peak exclusion (>20% of C peak)",3046
+W1 single wire,"d_gCNR(E_EI - M^2), clean sectors, 10 deg rule",0.0000
+W1 single wire,"n_bg, clean sectors, 10 deg rule",3046
+W1 single wire,"d_gCNR(E_EI - M^2), clean sectors, 20 deg rule",0.0000
+W1 single wire,"n_bg, clean sectors, 20 deg rule",3046
+W1 single wire,"d_gCNR(E_EI - M^2), clean sectors, 40 deg rule",0.0000
+W1 single wire,"n_bg, clean sectors, 40 deg rule",3046
+W2 two wires,annulus max / C peak,0.8469
+W2 two wires,annulus p95 / C peak,0.3517
+W2 two wires,fraction of annulus pixels > 5% of C peak,0.6245
+W2 two wires,discrete peaks > 20% of C peak in annulus,32
+W2 two wires,strongest annulus peak position (mm),1.378
+W2 two wires,background pixels n_bg,3047
+W2 two wires,"d_gCNR(E_EI - M^2), pre-registered annulus (3-6 r)",-0.0139
+W2 two wires,"n_bg, pre-registered annulus (3-6 r)",3047
+W2 two wires,"d_gCNR(E_EI - M^2), peak exclusion (>20% of C peak)",-0.0245
+W2 two wires,"n_bg, peak exclusion (>20% of C peak)",1496
+W2 two wires,"d_gCNR(E_EI - M^2), clean sectors, 10 deg rule",-0.0192
+W2 two wires,"n_bg, clean sectors, 10 deg rule",761
+W2 two wires,"d_gCNR(E_EI - M^2), clean sectors, 20 deg rule",-0.0198
+W2 two wires,"n_bg, clean sectors, 20 deg rule",1014
+W2 two wires,"d_gCNR(E_EI - M^2), clean sectors, 40 deg rule",-0.0102
+W2 two wires,"n_bg, clean sectors, 40 deg rule",2221
+W3 crossed wires,annulus max / C peak,0.8101
+W3 crossed wires,annulus p95 / C peak,0.2794
+W3 crossed wires,fraction of annulus pixels > 5% of C peak,0.6112
+W3 crossed wires,discrete peaks > 20% of C peak in annulus,38
+W3 crossed wires,strongest annulus peak position (mm),3.242
+W3 crossed wires,background pixels n_bg,51972
+W3 crossed wires,"d_gCNR(E_EI - M^2), pre-registered annulus (3-6 r)",-0.0095
+W3 crossed wires,"n_bg, pre-registered annulus (3-6 r)",51972
+W3 crossed wires,"d_gCNR(E_EI - M^2), peak exclusion (>20% of C peak)",+0.0052
+W3 crossed wires,"n_bg, peak exclusion (>20% of C peak)",25338
+W3 crossed wires,"d_gCNR(E_EI - M^2), clean sectors, 10 deg rule",0.0000
+W3 crossed wires,"n_bg, clean sectors, 10 deg rule",10144
+W3 crossed wires,"d_gCNR(E_EI - M^2), clean sectors, 20 deg rule",+0.0031
+W3 crossed wires,"n_bg, clean sectors, 20 deg rule",18731
+W3 crossed wires,"d_gCNR(E_EI - M^2), clean sectors, 40 deg rule",-0.0040
+W3 crossed wires,"n_bg, clean sectors, 40 deg rule",44791
+W4 two depths,annulus max / C peak,0.6171
+W4 two depths,annulus p95 / C peak,0.3429
+W4 two depths,fraction of annulus pixels > 5% of C peak,0.8105
+W4 two depths,discrete peaks > 20% of C peak in annulus,19
+W4 two depths,strongest annulus peak position (mm),3.112
+W4 two depths,background pixels n_bg,59520
+W4 two depths,"d_gCNR(E_EI - M^2), pre-registered annulus (3-6 r)",-0.0009
+W4 two depths,"n_bg, pre-registered annulus (3-6 r)",59520
+W4 two depths,"d_gCNR(E_EI - M^2), peak exclusion (>20% of C peak)",-0.0013
+W4 two depths,"n_bg, peak exclusion (>20% of C peak)",36716
+W4 two depths,"d_gCNR(E_EI - M^2), clean sectors, 10 deg rule",0.0000
+W4 two depths,"n_bg, clean sectors, 10 deg rule",1654
+W4 two depths,"d_gCNR(E_EI - M^2), clean sectors, 20 deg rule",-0.0021
+W4 two depths,"n_bg, clean sectors, 20 deg rule",31389
+W4 two depths,"d_gCNR(E_EI - M^2), clean sectors, 40 deg rule",-0.0013
+W4 two depths,"n_bg, clean sectors, 40 deg rule",47986
+W5 ring phantom,annulus max / C peak,0.8034
+W5 ring phantom,annulus p95 / C peak,0.5878
+W5 ring phantom,fraction of annulus pixels > 5% of C peak,0.9680
+W5 ring phantom,discrete peaks > 20% of C peak in annulus,8
+W5 ring phantom,strongest annulus peak position (mm),2.746
+W5 ring phantom,background pixels n_bg,76584
+W5 ring phantom,"d_gCNR(E_EI - M^2), pre-registered annulus (3-6 r)",-0.0386
+W5 ring phantom,"n_bg, pre-registered annulus (3-6 r)",76584
+W5 ring phantom,"d_gCNR(E_EI - M^2), peak exclusion (>20% of C peak)",-0.0346
+W5 ring phantom,"n_bg, peak exclusion (>20% of C peak)",59105
+W5 ring phantom,"d_gCNR(E_EI - M^2), clean sectors, 10 deg rule",NA
+W5 ring phantom,"n_bg, clean sectors, 10 deg rule",0
+W5 ring phantom,"d_gCNR(E_EI - M^2), clean sectors, 20 deg rule",NA
+W5 ring phantom,"n_bg, clean sectors, 20 deg rule",0
+W5 ring phantom,"d_gCNR(E_EI - M^2), clean sectors, 40 deg rule",-0.1299
+W5 ring phantom,"n_bg, clean sectors, 40 deg rule",27658
+W6 rotational scan,annulus max / C peak,0.3378
+W6 rotational scan,annulus p95 / C peak,0.1671
+W6 rotational scan,fraction of annulus pixels > 5% of C peak,0.6523
+W6 rotational scan,discrete peaks > 20% of C peak in annulus,0
+W6 rotational scan,strongest annulus peak position (mm),NA
+W6 rotational scan,background pixels n_bg,3046
+W6 rotational scan,"d_gCNR(E_EI - M^2), pre-registered annulus (3-6 r)",0.0000
+W6 rotational scan,"n_bg, pre-registered annulus (3-6 r)",3046
+W6 rotational scan,"d_gCNR(E_EI - M^2), peak exclusion (>20% of C peak)",0.0000
+W6 rotational scan,"n_bg, peak exclusion (>20% of C peak)",2979
+W6 rotational scan,"d_gCNR(E_EI - M^2), clean sectors, 10 deg rule",NA
+W6 rotational scan,"n_bg, clean sectors, 10 deg rule",0
+W6 rotational scan,"d_gCNR(E_EI - M^2), clean sectors, 20 deg rule",0.0000
+W6 rotational scan,"n_bg, clean sectors, 20 deg rule",1335
+W6 rotational scan,"d_gCNR(E_EI - M^2), clean sectors, 40 deg rule",0.0000
+W6 rotational scan,"n_bg, clean sectors, 40 deg rule",3046

@@ -1,0 +1,7 @@
+﻿dataset,Conc(I_E),Conc(I_M^2),Conc(E)/Conc(M^2),DR_power(E) (dB),DR_power(M^2) (dB),DR_power(E) - DR_power(M^2) (dB)
+W1 single thin wire (point absorber),0.699140,0.900513,0.7764,18.856,28.067,-9.211
+W2 two parallel wires,0.400277,0.451925,0.8857,11.055,15.058,-4.003
+W3 crossed wires (X),0.676831,0.536799,1.2609,14.668,13.361,+1.307
+W4 wires at two depths (V),0.245768,0.234160,1.0496,4.724,4.816,-0.092
+W5 ring / tube phantom,0.148182,0.153376,0.9661,1.936,1.463,+0.473
+W6 rotational scan (200 steps),0.459243,0.601510,0.7635,8.165,13.100,-4.935

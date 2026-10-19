@@ -1,0 +1,11 @@
+﻿window,WL,WW,lo,hi,structure_visible,bitdepth_gain,readable_frac,bg_removed,clipped_black_frac,dataset
+full range (baseline),0.5,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,W1 · single wire (point)
+narrow-detail window,0.25,0.5,0.0,0.5,1.0,2.0,1.0,0.0,0.0,W1 · single wire (point)
+balanced window (legacy default),0.4,0.5,0.15,0.65,0.1229,2.0,0.1018,1.0,0.9988,W1 · single wire (point)
+wide-dynamic-range window,0.35,0.8,-0.05,0.75,1.0,1.25,1.0,0.0,0.0,W1 · single wire (point)
+quantile-adaptive (recommended),0.088,0.157,0.0092,0.166,1.0,6.378,1.0,1.0,0.5,W1 · single wire (point)
+full range (baseline),0.5,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,W3 · X-shaped crossed filament
+narrow-detail window,0.25,0.5,0.0,0.5,1.0,2.0,0.9199,0.0,0.0,W3 · X-shaped crossed filament
+balanced window (legacy default),0.4,0.5,0.15,0.65,1.0,2.0,0.739,1.0,0.9821,W3 · X-shaped crossed filament
+wide-dynamic-range window,0.35,0.8,-0.05,0.75,1.0,1.25,1.0,0.0,0.0,W3 · X-shaped crossed filament
+quantile-adaptive (recommended),0.277,0.531,0.0114,0.5425,1.0,1.883,1.0,1.0,0.5,W3 · X-shaped crossed filament

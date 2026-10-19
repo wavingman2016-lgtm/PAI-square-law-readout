@@ -1,0 +1,25 @@
+dataset,metric,C,M,EH,EL,SQ,EL/M
+W1,lateral FWHM (mm),0.142,0.726,0.569,0.570,0.243,0.78
+W2,lateral FWHM (mm),0.305,4.580,1.671,1.675,1.016,0.37
+W3,lateral FWHM (mm),1.122,2.305,1.046,1.048,0.892,0.45
+W4,lateral FWHM (mm),1.653,5.412,3.057,3.059,0.447,0.57
+W5,lateral FWHM (mm),2.926,18.000,16.519,16.517,5.324,0.92
+W6,lateral FWHM (mm),0.390,3.535,2.863,2.863,0.369,0.81
+W1,axial FWHM (mm),0.312,0.692,0.494,0.496,0.289,0.72
+W2,axial FWHM (mm),0.520,3.079,1.134,1.129,0.577,0.37
+W3,axial FWHM (mm),0.531,1.033,0.488,0.489,0.426,0.47
+W4,axial FWHM (mm),0.671,9.613,4.630,4.644,1.789,0.48
+W5,axial FWHM (mm),2.157,17.406,12.891,12.896,1.658,0.74
+W6,axial FWHM (mm),0.349,2.207,1.440,1.440,0.285,0.65
+W1,lateral PSLR (dB),-8.0,-22.1,-37.3,-37.3,-6.2,NA
+W2,lateral PSLR (dB),-7.6,-8.5,-6.7,-6.7,-4.6,NA
+W3,lateral PSLR (dB),-5.6,-4.5,-9.6,-9.6,-10.6,NA
+W4,lateral PSLR (dB),-7.8,-4.3,-8.1,-8.1,-0.5,NA
+W5,lateral PSLR (dB),-2.6,-4.0,-5.5,-5.5,-2.8,NA
+W6,lateral PSLR (dB),-10.4,-14.4,-21.3,-21.3,-5.7,NA
+W1,lateral maxima (count),3,1,1,1,2,1.00
+W2,lateral maxima (count),17,5,6,6,23,1.20
+W3,lateral maxima (count),13,3,2,2,14,0.67
+W4,lateral maxima (count),3,1,1,1,5,1.00
+W5,lateral maxima (count),1,1,1,1,1,1.00
+W6,lateral maxima (count),5,2,2,2,5,1.00

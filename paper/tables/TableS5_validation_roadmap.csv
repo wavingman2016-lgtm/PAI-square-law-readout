@@ -1,0 +1,12 @@
+id,experiment,what_it_decides,status,evidence_location
+E1,"one isolated target, laser energy swept","the quadratic scaling law of §2.7 - log-log slope with interval, plus saturation/heating guards",not done,"operator derivation only (§2.7); no measured slope"
+E2,"the same target translated in depth and laterally","the sensitivity C(r), peak position, broadening and transferability of the calibration",partial,"single-geometry point-target widths, Fig. 3; no translation sweep"
+E3,"A, B and A+B, with illumination and receiver held comparable","the source-coupling term of §2.7",not done,"algebraic boundary stated in §2.7; no multi-source measurement"
+E4,"the three routes on one input (envelope, square-and-low-pass, bare square)","the definitional alignment of §2.1 - relative error, scale, spectrum and pixel difference",done,"Fig. S1, Table 2"
+E4c,"raised sampling rate (record genuinely resampled onto a k-times finer grid)","whether residual folding contaminates |z|^2 (§2.2)",done,"archived E4c folding-control output; 30 paired draws; paired d(eps_img) +0.0044 [-0.0119,+0.0207] at k=4"
+E5,"equivalence / non-inferiority re-analysis of E against M","replaces ""no resolved difference"" with a pre-specified margin and an interval",not done,"reported as a non-result (§4.2); no equivalence claimed"
+E6,"envelope route driven through the same real-valued back-projection","separates ""no Hilbert"" from ""real-valued interpolation"" in the cost accounting",not done,"cost reported as a description of instrumented code (§4.2, Table 10)"
+E7,"imposed sound-speed mismatch, or a heterogeneous propagation model","localisation, waveform misalignment and gCNR under aberration, beyond carrier phase",partial,"phase-screen aberration axis, Fig. 4a; no sound-speed mismatch"
+E8,"zero-mean correlated complex-Gaussian and real-Gaussian controls, with finite-ensemble intervals","tests both CV forms of §2.3 against the measured excess and separates its candidate causes",partial,"i.i.d. control only, Fig. S2c; correlation control and intervals not done"
+E9,"reference targets with equal absorption and near-equal fluence but different conversion parameters","the only design that can begin to support conversion-related sensitivity",not done,"no empirical conversion-related characterisation claimed"
+E10,"injected electronic offset and a known noise floor","baseline estimation, squaring bias and the limits of its correction",partial,"DC-removal sensitivity quantified, residual x11.7; injected offset not done"

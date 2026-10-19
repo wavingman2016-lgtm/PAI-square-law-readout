@@ -1,0 +1,14 @@
+{
+  "array": "virtualRingCup.mat",
+  "N": 1024,
+  "fs": 40000000.0,
+  "sos": 1540.0,
+  "delay_samples": 750.0,
+  "delay_us": 18.75,
+  "half_width_mm": 20.499999999999996,
+  "nominal_FOV_mm": 40.99999999999999,
+  "pearson_full": 0.03153508645791352,
+  "pearson_ours_vs_gt": 0.09517864510404854,
+  "pearson_official_vs_gt": 0.7348494973923321,
+  "slice": 12
+}

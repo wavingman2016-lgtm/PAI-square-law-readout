@@ -1,0 +1,2 @@
+# store bytes verbatim so that the commit SHA is machine independent
+* -text

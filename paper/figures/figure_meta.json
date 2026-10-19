@@ -1,0 +1,29 @@
+{
+  "_doc": "图 → 数据契约。供 claim_check.py 的 A-4 证据存在性检查消费：claim_graph 里 figure 键写的名字必须在这里登记，且 rendered 指向的文件必须真实存在。路径均相对项目根目录。",
+  "figures": {
+    "Fig. 2": {
+      "contract": ["W1/W2 lateral profiles, five chains", "normalised to each profile's own maximum", "abscissa = offset from the coherent peak"],
+      "source": "results/fivechain/fivechain_data.csv",
+      "script": "paper/figures/_plot_fig_fivechain.py",
+      "rendered": "paper/figures/Fig2_fivechain_profiles.png"
+    },
+    "Fig. 3": {
+      "contract": ["peak vs input amplitude (log-log), five chains", "dip depth vs separation at 1:1 and 4:1"],
+      "source": "results/fivechain/fivechain_sim.csv",
+      "script": "paper/figures/_plot_fig_v033_sim.py",
+      "rendered": "paper/figures/Fig3_sim_amplitude_twopoint.png"
+    },
+    "Fig. 4": {
+      "contract": ["Pd vs amplitude at 5% FPR, five chains", "difference from the coherent baseline"],
+      "source": "results/fivechain/fivechain_sim.csv",
+      "script": "paper/figures/_plot_fig_v033_sim.py",
+      "rendered": "paper/figures/Fig4_sim_detection.png"
+    },
+    "Fig. 5": {
+      "contract": ["(a) weak-target display contrast under three window rules", "(b) end-to-end time decomposition, five chains"],
+      "source": "results/fivechain/fivechain_sim.csv",
+      "script": "paper/figures/_plot_fig_v033_sim.py",
+      "rendered": "paper/figures/Fig5_sim_display_cost.png"
+    }
+  }
+}

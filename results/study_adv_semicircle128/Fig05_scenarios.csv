@@ -1,0 +1,17 @@
+scenario,dgCNR_E_minus_C,family,source
+SNR 0 dB,0.581718,Low SNR,study_phase.mat (recomputed)
+ring-256 / coherent clutter,0.550000,Coherent clutter,carried literal (exploratory run, not archived)
+SNR 5 dB,0.478498,Low SNR,study_phase.mat (recomputed)
+semicircle-128 / coherent clutter,0.372000,Coherent clutter,carried literal (exploratory run, not archived)
+SNR 10 dB,0.300734,Low SNR,study_phase.mat (recomputed)
+ring-256 / white noise,0.279000,Ideal (white noise),carried literal (exploratory run, not archived)
+aberration 2 rad,0.244343,Aberration,study_phase.mat (recomputed)
+in-house W2 (two wires),0.195000,In-house data,carried literal (exploratory run, not archived)
+SNR 15 dB,0.183689,Low SNR,study_phase.mat (recomputed)
+aberration 1 rad,0.147032,Aberration,study_phase.mat (recomputed)
+element loss 50%,0.111000,Element loss,carried literal (exploratory run, not archived)
+aberration 0.5 rad,0.092188,Aberration,study_phase.mat (recomputed)
+semicircle-128 / white noise,0.082000,Ideal (white noise),carried literal (exploratory run, not archived)
+in-house W1 (single wire),0.048000,In-house data,carried literal (exploratory run, not archived)
+SNR 25 dB,0.046660,Low SNR,study_phase.mat (recomputed)
+SUMMARY,mean=0.247458,min=0.046660,max=0.581718,asserted against Sect. 4.2

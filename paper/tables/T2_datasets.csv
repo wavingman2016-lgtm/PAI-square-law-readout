@@ -1,0 +1,7 @@
+id,object,array / scan,R (mm),Nx,FOV (mm),$f_s$ (MHz),$f_0$ (MHz),band (MHz),LPF (MHz)
+W1,"single wire, cross-section",semicircle 128,55.0,601,40,40,5.00,3.00-7.00,5.00
+W2,two parallel wires,semicircle 128,55.0,601,40,40,5.00,3.00-7.00,5.00
+W3,two crossing wires,semicircle 128,55.0,1501,60,40,5.00,3.00-7.00,5.00
+W4,two wires at different depths,rotational 1440 x 32,54.28,601,18,100,1.16,0.70-1.62,1.16
+W5,ring / tubular phantom,static 1440 x 32,17.49,601,18,100,0.35,0.21-0.49,0.35
+W6,"rotational scan, 200 steps",rotational 200,16.02,601,18,100,2.00,1.20-2.80,2.00

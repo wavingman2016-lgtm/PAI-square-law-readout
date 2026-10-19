@@ -1,0 +1,13 @@
+﻿quantity,W1,W2,W3,W4,W5,W6
+verified configuration,default,default,"Nx=1501, FOV=60 mm",F0=1.16 MHz,F0=0.35 MHz,F0=2.00 MHz
+f0 (MHz),5,5,5,1.16,0.35,2
+apparent width aFWHM (mm) — D1 linear envelope,0.711,4.69,3.55,12.8,17.4,3.57
+apparent width aFWHM (mm) — D1² squared envelope (Hilbert),0.544,1.53,1.05,2.91,12.9,2.97
+"apparent width aFWHM (mm) — D2′ squared envelope (Hilbert-free, this work)",0.542,1.52,1.04,2.91,12.9,2.97
+apparent width aFWHM (mm) — D2 bare square,0.243,1.38,0.836,1.71,12.3,0.852
+gCNR — D1,0.9542,0.9708,0.9222,0.9419,0.9753,0.8472
+gCNR — D1²,0.9458,0.9833,0.9553,0.9833,0.9958,0.8967
+gCNR — D2′ (this work),0.9458,0.9833,0.9553,0.9833,0.9958,0.8967
+gCNR — D2,0.9425,0.975,0.9006,0.9005,0.7605,0.8219
+ΔgCNR (D2′ − D1²)  Hilbert-free equivalence,0,0,0,0,0,0
+ΔgCNR (D2′ − D2)   band-limiting is necessary,0.003347,0.008333,0.05469,0.08279,0.2353,0.07473
